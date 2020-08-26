@@ -1,7 +1,8 @@
 # mysite
 Django tutorial(Personal study)
 
-##use git commend
+## use git commend
+
 1.git inti
 2.git add .
 3.git commit -m "commit title"

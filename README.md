@@ -8,3 +8,5 @@ Django tutorial(Personal study)
 3. git commit -m "commit title"
 4. git remote add origin ~~ (first commit and push)
 5. git push -u origin branchName (second push)
+
+models to be changed (sqlite3 -> mariaDB)

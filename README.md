@@ -10,3 +10,5 @@ Django tutorial(Personal study)
 5. git push -u origin branchName (second push)
 
 models to be changed (sqlite3 -> mariaDB)
+
+py
